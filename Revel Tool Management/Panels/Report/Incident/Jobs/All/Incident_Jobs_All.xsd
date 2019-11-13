@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Incident_Jobs" targetNamespace="http://tempuri.org/Incident_Jobs.xsd" xmlns:mstns="http://tempuri.org/Incident_Jobs.xsd" xmlns="http://tempuri.org/Incident_Jobs.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Incident_Jobs" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Incident_Jobs" msprop:Generator_UserDSName="Incident_Jobs">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Incident_Jobs" msprop:Generator_TableClassName="Incident_JobsDataTable" msprop:Generator_TableVarName="tableIncident_Jobs" msprop:Generator_TablePropName="_Incident_Jobs" msprop:Generator_RowDeletingName="Incident_JobsRowDeleting" msprop:Generator_RowChangingName="Incident_JobsRowChanging" msprop:Generator_RowEvHandlerName="Incident_JobsRowChangeEventHandler" msprop:Generator_RowDeletedName="Incident_JobsRowDeleted" msprop:Generator_UserTableName="Incident_Jobs" msprop:Generator_RowChangedName="Incident_JobsRowChanged" msprop:Generator_RowEvArgName="Incident_JobsRowChangeEvent" msprop:Generator_RowClassName="Incident_JobsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="incident_id" msprop:Generator_ColumnVarNameInTable="columnincident_id" msprop:Generator_ColumnPropNameInRow="incident_id" msprop:Generator_ColumnPropNameInTable="incident_idColumn" msprop:Generator_UserColumnName="incident_id" type="xs:int" minOccurs="0" />
+              <xs:element name="jobs_name" msprop:Generator_ColumnVarNameInTable="columnjobs_name" msprop:Generator_ColumnPropNameInRow="jobs_name" msprop:Generator_ColumnPropNameInTable="jobs_nameColumn" msprop:Generator_UserColumnName="jobs_name" type="xs:string" minOccurs="0" />
+              <xs:element name="jobs_op_name" msprop:Generator_ColumnVarNameInTable="columnjobs_op_name" msprop:Generator_ColumnPropNameInRow="jobs_op_name" msprop:Generator_ColumnPropNameInTable="jobs_op_nameColumn" msprop:Generator_UserColumnName="jobs_op_name" type="xs:string" minOccurs="0" />
+              <xs:element name="machines_name" msprop:Generator_ColumnVarNameInTable="columnmachines_name" msprop:Generator_ColumnPropNameInRow="machines_name" msprop:Generator_ColumnPropNameInTable="machines_nameColumn" msprop:Generator_UserColumnName="machines_name" type="xs:string" minOccurs="0" />
+              <xs:element name="jobs_op_tools_name" msprop:Generator_ColumnVarNameInTable="columnjobs_op_tools_name" msprop:Generator_ColumnPropNameInRow="jobs_op_tools_name" msprop:Generator_ColumnPropNameInTable="jobs_op_tools_nameColumn" msprop:Generator_UserColumnName="jobs_op_tools_name" type="xs:string" minOccurs="0" />
+              <xs:element name="shift" msprop:Generator_ColumnVarNameInTable="columnshift" msprop:Generator_ColumnPropNameInRow="shift" msprop:Generator_ColumnPropNameInTable="shiftColumn" msprop:Generator_UserColumnName="shift" type="xs:string" minOccurs="0" />
+              <xs:element name="incident_type_name" msprop:Generator_ColumnVarNameInTable="columnincident_type_name" msprop:Generator_ColumnPropNameInRow="incident_type_name" msprop:Generator_ColumnPropNameInTable="incident_type_nameColumn" msprop:Generator_UserColumnName="incident_type_name" type="xs:string" minOccurs="0" />
+              <xs:element name="incident_subject" msprop:Generator_ColumnVarNameInTable="columnincident_subject" msprop:Generator_ColumnPropNameInRow="incident_subject" msprop:Generator_ColumnPropNameInTable="incident_subjectColumn" msprop:Generator_UserColumnName="incident_subject" type="xs:string" minOccurs="0" />
+              <xs:element name="incident_user" msprop:Generator_ColumnVarNameInTable="columnincident_user" msprop:Generator_ColumnPropNameInRow="incident_user" msprop:Generator_ColumnPropNameInTable="incident_userColumn" msprop:Generator_UserColumnName="incident_user" type="xs:string" minOccurs="0" />
+              <xs:element name="incident_time" msprop:Generator_ColumnVarNameInTable="columnincident_time" msprop:Generator_ColumnPropNameInRow="incident_time" msprop:Generator_ColumnPropNameInTable="incident_timeColumn" msprop:Generator_UserColumnName="incident_time" type="xs:string" minOccurs="0" />
+              <xs:element name="incident_detail" msprop:Generator_ColumnVarNameInTable="columnincident_detail" msprop:Generator_ColumnPropNameInRow="incident_detail" msprop:Generator_ColumnPropNameInTable="incident_detailColumn" msprop:Generator_UserColumnName="incident_detail" type="xs:string" minOccurs="0" />
+              <xs:element name="incident_cost" msprop:Generator_ColumnVarNameInTable="columnincident_cost" msprop:Generator_ColumnPropNameInRow="incident_cost" msprop:Generator_ColumnPropNameInTable="incident_costColumn" msprop:Generator_UserColumnName="incident_cost" type="xs:double" minOccurs="0" />
+              <xs:element name="incident_action" msprop:Generator_ColumnVarNameInTable="columnincident_action" msprop:Generator_ColumnPropNameInRow="incident_action" msprop:Generator_ColumnPropNameInTable="incident_actionColumn" msprop:Generator_UserColumnName="incident_action" type="xs:string" minOccurs="0" />
+              <xs:element name="incident_image" msprop:Generator_ColumnVarNameInTable="columnincident_image" msprop:Generator_ColumnPropNameInRow="incident_image" msprop:Generator_ColumnPropNameInTable="incident_imageColumn" msprop:Generator_UserColumnName="incident_image" type="xs:string" minOccurs="0" />
+              <xs:element name="products_code" msprop:Generator_ColumnVarNameInTable="columnproducts_code" msprop:Generator_ColumnPropNameInRow="products_code" msprop:Generator_ColumnPropNameInTable="products_codeColumn" msprop:Generator_UserColumnName="products_code" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

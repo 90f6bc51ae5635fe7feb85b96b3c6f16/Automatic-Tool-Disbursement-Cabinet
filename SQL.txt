@@ -1,0 +1,27 @@
+
+
+Update return_id 
+UPDATE tb_stock_log SET return_id = 0 
+
+Update products_cost 
+UPDATE tb_how2buy SET products_cost = prices
+
+
+Update จำนวนสินค้าใน How 2 buy
+UPDATE tb_how2buy 
+SET products_qty = ( 
+		IFNULL( (SELECT SUM(stock_qty) FROM tb_stock_log WHERE stock_type = 'in' AND how2buy_id = tb_how2buy.how2buy_id), 0) 
+		- IFNULL( (SELECT SUM(stock_qty) FROM tb_stock_log WHERE stock_type = 'out' AND how2buy_id = tb_how2buy.how2buy_id), 0)
+		)
+
+	
+	
+Update ต้นทุนราคา ใน stock in และ out
+UPDATE tb_stock_log 
+SET stock_price = IFNULL( (SELECT SUM(products_cost) FROM tb_how2buy WHERE how2buy_id = tb_stock_log.how2buy_id), 0)  
+
+Update tb_jobs_op_tools_use set jobs_op_tools_use_inactive = 'Active'
+UPDATE tb_how2buy SET how2buy_inactive = 'Active'
+
+update tb_products SET products_factor = 0.5;
+update tb_products SET products_reorder = 0;

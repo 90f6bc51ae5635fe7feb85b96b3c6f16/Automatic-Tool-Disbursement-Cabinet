@@ -1,0 +1,1338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D5218957-57DF-4316-B323-C4C8D62021FE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Revel_Tool_Management.My.MyApplication</StartupObject>
+    <RootNamespace>Revel_Tool_Management</RootNamespace>
+    <AssemblyName>Future Tool Management</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Future Tool Management.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Future Tool Management.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>image\icon\logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebDesign, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.900.148\lib\net40\Microsoft.ReportViewer.WebDesign.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.900.148\lib\net40\Microsoft.ReportViewer.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.1016.290\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SQLite, Version=1.0.111.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Core.1.0.111.0\lib\net451\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.111.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.111.0\lib\net451\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.111.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.111.0\lib\net451\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Library\BorderColor.vb" />
+    <Compile Include="Library\ConfigDatabase.vb" />
+    <Compile Include="Library\CreateDatabase.vb" />
+    <Compile Include="Library\CreateSystemDatabase.vb" />
+    <Compile Include="Library\Email.vb" />
+    <Compile Include="Library\CalculateStock.vb" />
+    <Compile Include="Library\Log.vb" />
+    <Compile Include="Library\RegexUtilities.vb" />
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Panels\ImportProduct.Designer.vb">
+      <DependentUpon>ImportProduct.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\ImportProduct.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\ImportProductSupplier.Designer.vb">
+      <DependentUpon>ImportProductSupplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\ImportProductSupplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\ImportSupplier.Designer.vb">
+      <DependentUpon>ImportSupplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\ImportSupplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\IncidentPrint\IncidentPrint.vb">
+      <DependentUpon>IncidentPrint.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\IncidentPrint\IncidentPrint1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IncidentPrint.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\IncidentPrint\IncidentView.Designer.vb">
+      <DependentUpon>IncidentView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\IncidentPrint\IncidentView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Analysis\Job Cost\rp_analysis_job_cost.Designer.vb">
+      <DependentUpon>rp_analysis_job_cost.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Analysis\Job Cost\rp_analysis_job_cost.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Analysis\Job CPP\rp_analysis_job_cpp.Designer.vb">
+      <DependentUpon>rp_analysis_job_cpp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Analysis\Job CPP\rp_analysis_job_cpp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Analysis\Process CPP\rp_analysis_process_cpp.Designer.vb">
+      <DependentUpon>rp_analysis_process_cpp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Analysis\Process CPP\rp_analysis_process_cpp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Analysis\Process Cost\rp_analysis_process_cost.Designer.vb">
+      <DependentUpon>rp_analysis_process_cost.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Analysis\Process Cost\rp_analysis_process_cost.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Analysis\Product Cost\rp_analysis_product_cost.Designer.vb">
+      <DependentUpon>rp_analysis_product_cost.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Analysis\Product Cost\rp_analysis_product_cost.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Incident\Job\Incident_Job.Designer.vb">
+      <DependentUpon>Incident_Job.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Incident\Job\Incident_Job.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Incident\Tool\Incident_Tool.Designer.vb">
+      <DependentUpon>Incident_Tool.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Incident\Tool\Incident_Tool.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Log\rp_log.Designer.vb">
+      <DependentUpon>rp_log.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Log\rp_log.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Log\rp_log_db.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rp_log_db.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Log\rp_log_db.vb">
+      <DependentUpon>rp_log_db.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Month\JobsProcessCPP\rp_job_process_cost_cpp.Designer.vb">
+      <DependentUpon>rp_job_process_cost_cpp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Month\JobsProcessCPP\rp_job_process_cost_cpp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Tool Life Record\Actual Tool Life\rp_actual_toollife.Designer.vb">
+      <DependentUpon>rp_actual_toollife.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Tool Life Record\Actual Tool Life\rp_actual_toollife.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Return\ReturnPrint.Designer.vb">
+      <DependentUpon>ReturnPrint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Return\ReturnPrint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Return\ReturnPrintData.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReturnPrintData.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\SuccessStory.Designer.vb">
+      <DependentUpon>SuccessStory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\SuccessStory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\OrderAdd.Designer.vb">
+      <DependentUpon>OrderAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\OrderAdd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\OrderView.Designer.vb">
+      <DependentUpon>OrderView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\OrderView.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\OrderManage.Designer.vb">
+      <DependentUpon>OrderManage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\OrderManage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Order.Designer.vb">
+      <DependentUpon>Order.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Order.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\ProductBrands.Designer.vb">
+      <DependentUpon>ProductBrands.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\ProductBrands.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\ProductGroup.Designer.vb">
+      <DependentUpon>ProductGroup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\ProductGroup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Products.Designer.vb">
+      <DependentUpon>Products.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Products.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\ProductTypes.Designer.vb">
+      <DependentUpon>ProductTypes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\ProductTypes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\CPP\Profit\rp_profit.Designer.vb">
+      <DependentUpon>rp_profit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\CPP\Profit\rp_profit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Jobs\JobsReport.Designer.vb">
+      <DependentUpon>JobsReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Jobs\JobsReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Jobs\rp_jobs.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rp_jobs.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Jobs\rp_jobs.vb">
+      <DependentUpon>rp_jobs.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Month\JobCPP\rp_job_cpp.Designer.vb">
+      <DependentUpon>rp_job_cpp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Month\JobCPP\rp_job_cpp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Month\RestockProduct\rp_restock_product_cost.Designer.vb">
+      <DependentUpon>rp_restock_product_cost.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Month\RestockProduct\rp_restock_product_cost.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Month\StockIssueProduct\rp_stock_issue_product_cost.Designer.vb">
+      <DependentUpon>rp_stock_issue_product_cost.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Month\StockIssueProduct\rp_stock_issue_product_cost.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Month\Restock\rp_restock_cost.Designer.vb">
+      <DependentUpon>rp_restock_cost.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Month\Restock\rp_restock_cost.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Month\StockIssue\rp_stock_issue_cost.Designer.vb">
+      <DependentUpon>rp_stock_issue_cost.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Month\StockIssue\rp_stock_issue_cost.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Month\JobsProduct\rp_job_product_cost.Designer.vb">
+      <DependentUpon>rp_job_product_cost.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Month\JobsProduct\rp_job_product_cost.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Month\JobsMachine\rp_job_machine_cost.Designer.vb">
+      <DependentUpon>rp_job_machine_cost.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Month\JobsMachine\rp_job_machine_cost.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Month\JobsProcess\rp_job_process_cost.Designer.vb">
+      <DependentUpon>rp_job_process_cost.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Month\JobsProcess\rp_job_process_cost.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Month\JobsOperation\rp_job_operation_cost.Designer.vb">
+      <DependentUpon>rp_job_operation_cost.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Month\JobsOperation\rp_job_operation_cost.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Month\Jobs\rp_job_cost.Designer.vb">
+      <DependentUpon>rp_job_cost.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Month\Jobs\rp_job_cost.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\ReStock\rp_restock.Designer.vb">
+      <DependentUpon>rp_restock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\ReStock\rp_restock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\ReStock\rp_re_stock.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rp_re_stock.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\ReStock\rp_re_stock.vb">
+      <DependentUpon>rp_re_stock.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\StockList\rp_stocklist.Designer.vb">
+      <DependentUpon>rp_stocklist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\StockList\rp_stocklist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\StockList\rp_stock_list.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rp_stock_list.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Stock\Jobs\rp_stock_jobs.Designer.vb">
+      <DependentUpon>rp_stock_jobs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Stock\Jobs\rp_stock_jobs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Stock\Machines\rp_stock_machines.Designer.vb">
+      <DependentUpon>rp_stock_machines.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Stock\Machines\rp_stock_machines.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Stock\OP\rp_stock_operations.Designer.vb">
+      <DependentUpon>rp_stock_operations.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Stock\OP\rp_stock_operations.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Stock\Process\rp_stock_process.Designer.vb">
+      <DependentUpon>rp_stock_process.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Stock\Process\rp_stock_process.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Stock\ProductsBrand\rp_product_brands.Designer.vb">
+      <DependentUpon>rp_product_brands.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Stock\ProductsBrand\rp_product_brands.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Stock\ProductsGroup\rp_product_groups.Designer.vb">
+      <DependentUpon>rp_product_groups.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Stock\ProductsGroup\rp_product_groups.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Stock\ProductsType\rp_product_types.Designer.vb">
+      <DependentUpon>rp_product_types.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Stock\ProductsType\rp_product_types.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Stock\Products\rp_stock_products.Designer.vb">
+      <DependentUpon>rp_stock_products.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Stock\Products\rp_stock_products.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Stock\rp_stock.vb">
+      <DependentUpon>rp_stock.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Stock\rp_stock1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rp_stock.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Stock\rp_stock_view.Designer.vb">
+      <DependentUpon>rp_stock_view.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Stock\rp_stock_view.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Stock\Suppliers\rp_stock_suppliers.Designer.vb">
+      <DependentUpon>rp_stock_suppliers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Stock\Suppliers\rp_stock_suppliers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Stock_issue\rp_stock_issue.vb">
+      <DependentUpon>rp_stock_issue.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Stock_issue\stock_issue.Designer.vb">
+      <DependentUpon>stock_issue.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Stock_issue\stock_issue.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Stock_issue\rp_stock_issue1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rp_stock_issue.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Tool Life Record\Actual Tool Life Avg\rp_actual_toollife_avg.Designer.vb">
+      <DependentUpon>rp_actual_toollife_avg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Tool Life Record\Actual Tool Life Avg\rp_actual_toollife_avg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Tool Life Record\Tool life record.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Tool life record.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Tool Life Record\Tool life record.vb">
+      <DependentUpon>Tool life record.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\ToolUse\perMonth\rp_per_month.Designer.vb">
+      <DependentUpon>rp_per_month.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\ToolUse\perMonth\rp_per_month.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\ToolUse\perWeek\rp_per_week.Designer.vb">
+      <DependentUpon>rp_per_week.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\ToolUse\perWeek\rp_per_week.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Restock.Designer.vb">
+      <DependentUpon>Restock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Restock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\FindProduct.Designer.vb">
+      <DependentUpon>FindProduct.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\FindProduct.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\StockIssue.Designer.vb">
+      <DependentUpon>StockIssue.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\StockIssue.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\StockFindProduct.Designer.vb">
+      <DependentUpon>StockFindProduct.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\StockFindProduct.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\StockFindSuppliers.Designer.vb">
+      <DependentUpon>StockFindSuppliers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\StockFindSuppliers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\StockLayout.Designer.vb">
+      <DependentUpon>StockLayout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\StockLayout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\StockLayoutDetail.Designer.vb">
+      <DependentUpon>StockLayoutDetail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\StockLayoutDetail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\StockLayoutFind.Designer.vb">
+      <DependentUpon>StockLayoutFind.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\StockLayoutFind.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\StockSlot.Designer.vb">
+      <DependentUpon>StockSlot.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\StockSlot.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report.Designer.vb">
+      <DependentUpon>Report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Incident\Jobs\All\Incident_Jobs_All.Designer.vb">
+      <DependentUpon>Incident_Jobs_All.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Incident\Jobs\All\Incident_Jobs_All.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Incident\Jobs\All\Incident_Jobs_All1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Incident_Jobs_All.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Incident\Jobs\One\Incident_Job_One.Designer.vb">
+      <DependentUpon>Incident_Job_One.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Incident\Jobs\One\Incident_Job_One.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Incident\Machine\Incident_Machine.Designer.vb">
+      <DependentUpon>Incident_Machine.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Incident\Machine\Incident_Machine.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Incident\Summary\Incident_Summary.Designer.vb">
+      <DependentUpon>Incident_Summary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Incident\Summary\Incident_Summary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Report\Incident\Type\Incident_Types.Designer.vb">
+      <DependentUpon>Incident_Types.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Report\Incident\Type\Incident_Types.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\StockList.Designer.vb">
+      <DependentUpon>StockList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\StockList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Urgent.Designer.vb">
+      <DependentUpon>Urgent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Urgent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\UserType.Designer.vb">
+      <DependentUpon>UserType.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\UserType.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Root.Designer.vb">
+      <DependentUpon>Root.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Root.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings.Designer.vb">
+      <DependentUpon>Settings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\Envelopments\Envelopments.Designer.vb">
+      <DependentUpon>Envelopments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\Envelopments\Envelopments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\Envelopments\fm_envelopments.Designer.vb">
+      <DependentUpon>fm_envelopments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\Envelopments\fm_envelopments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.vb">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\Suppliers.Designer.vb">
+      <DependentUpon>Suppliers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\Suppliers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panels\User.Designer.vb">
+      <DependentUpon>User.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Panels\User.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update.Designer.vb">
+      <DependentUpon>Update.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Update.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\ImportProduct.resx">
+      <DependentUpon>ImportProduct.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\ImportProductSupplier.resx">
+      <DependentUpon>ImportProductSupplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\ImportSupplier.resx">
+      <DependentUpon>ImportSupplier.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\IncidentPrint\IncidentPrint.rdlc" />
+    <EmbeddedResource Include="Panels\IncidentPrint\IncidentView.resx">
+      <DependentUpon>IncidentView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Analysis\Job Cost\rp_analysis_job_cost.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Analysis\Job Cost\rp_analysis_job_cost.resx">
+      <DependentUpon>rp_analysis_job_cost.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Analysis\Job CPP\rp_analysis_job_cpp.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Analysis\Job CPP\rp_analysis_job_cpp.resx">
+      <DependentUpon>rp_analysis_job_cpp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Analysis\Process CPP\rp_analysis_process_cpp.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Analysis\Process CPP\rp_analysis_process_cpp.resx">
+      <DependentUpon>rp_analysis_process_cpp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Analysis\Process Cost\rp_analysis_process_cost.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Analysis\Process Cost\rp_analysis_process_cost.resx">
+      <DependentUpon>rp_analysis_process_cost.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Analysis\Product Cost\rp_analysis_product_cost.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Analysis\Product Cost\rp_analysis_product_cost.resx">
+      <DependentUpon>rp_analysis_product_cost.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Incident\Job\Incident_Job_rp.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Incident\Job\Incident_Job.resx">
+      <DependentUpon>Incident_Job.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Incident\Job\Incident_Job_rp_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Incident\Job\Incident_Job_rp_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Incident\Tool\Incident_Tool_rp.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Incident\Tool\Incident_Tool.resx">
+      <DependentUpon>Incident_Tool.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Incident\Tool\Incident_Tool_rp_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Incident\Tool\Incident_Tool_rp_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Log\rp_log.resx">
+      <DependentUpon>rp_log.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Log\rp_log_view.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\JobsProcessCPP\rp_job_process_cost_cpp.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\JobsProcessCPP\rp_job_process_cost_cpp.resx">
+      <DependentUpon>rp_job_process_cost_cpp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Month\JobsProcessCPP\rp_job_process_cost_cpp_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\JobsProcessCPP\rp_job_process_cost_cpp_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Tool Life Record\Actual Tool Life\rp_actual_toollife.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Tool Life Record\Actual Tool Life\rp_actual_toollife.resx">
+      <DependentUpon>rp_actual_toollife.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Tool Life Record\Actual Tool Life\rp_actual_toollife_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Tool Life Record\Actual Tool Life\rp_actual_toollife_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Return\ReturnPrint.rdlc" />
+    <EmbeddedResource Include="Panels\Return\ReturnPrint.resx">
+      <DependentUpon>ReturnPrint.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\SuccessStory.resx">
+      <DependentUpon>SuccessStory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\OrderAdd.resx">
+      <DependentUpon>OrderAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\OrderView.resx">
+      <DependentUpon>OrderView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\OrderManage.resx">
+      <DependentUpon>OrderManage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Order.resx">
+      <DependentUpon>Order.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\ProductBrands.resx">
+      <DependentUpon>ProductBrands.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\ProductGroup.resx">
+      <DependentUpon>ProductGroup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Products.resx">
+      <DependentUpon>Products.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\ProductTypes.resx">
+      <DependentUpon>ProductTypes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\CPP\Profit\rp_profit_line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\CPP\Profit\rp_profit_pie.rdlc" />
+    <EmbeddedResource Include="Panels\Report\CPP\Profit\rp_profit.rdlc" />
+    <EmbeddedResource Include="Panels\Report\CPP\Profit\rp_profit.resx">
+      <DependentUpon>rp_profit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Incident\Jobs\All\Incident_Jobs_ALL_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Incident\Jobs\All\Incident_Jobs_ALL_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Incident\Jobs\One\Incident_Job_One_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Incident\Jobs\One\Incident_Job_One_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Incident\Machine\Incident_Machine_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Incident\Machine\Incident_Machine_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Incident\Machine\Incident_Machine.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Incident\Summary\Incident_Summary_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Incident\Summary\Incident_Summary_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Incident\Summary\Incident_Summary.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Incident\Type\Incident_type_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Incident\Type\Incident_type_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Incident\Type\Incident_type.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Jobs\JobsReport.resx">
+      <DependentUpon>JobsReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Jobs\rp_jobs_table.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\JobCPP\rp_job_cpp.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\JobCPP\rp_job_cpp.resx">
+      <DependentUpon>rp_job_cpp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Month\JobCPP\rp_job_cpp_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\JobCPP\rp_job_cpp_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\RestockProduct\rp_restock_product_cost.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\RestockProduct\rp_restock_product_cost.resx">
+      <DependentUpon>rp_restock_product_cost.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Month\RestockProduct\rp_restock_product_cost_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\RestockProduct\rp_restock_product_cost_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\StockIssueProduct\rp_stock_issue_product_cost.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\StockIssueProduct\rp_stock_issue_product_cost.resx">
+      <DependentUpon>rp_stock_issue_product_cost.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Month\StockIssueProduct\rp_stock_issue_product_cost_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\StockIssueProduct\rp_stock_issue_product_cost_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\Restock\rp_restock_cost.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\Restock\rp_restock_cost.resx">
+      <DependentUpon>rp_restock_cost.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Month\Restock\rp_restock_cost_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\Restock\rp_restock_cost_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\StockIssue\rp_stock_issue_cost.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\StockIssue\rp_stock_issue_cost.resx">
+      <DependentUpon>rp_stock_issue_cost.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Month\StockIssue\rp_stock_issue_cost_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\StockIssue\rp_stock_issue_cost_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\JobsProduct\rp_job_product_cost.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\JobsProduct\rp_job_product_cost.resx">
+      <DependentUpon>rp_job_product_cost.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Month\JobsProduct\rp_job_product_cost_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\JobsProduct\rp_job_product_cost_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\JobsMachine\rp_job_machine_cost.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\JobsMachine\rp_job_machine_cost.resx">
+      <DependentUpon>rp_job_machine_cost.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Month\JobsMachine\rp_job_machine_cost_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\JobsMachine\rp_job_machine_cost_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\JobsProcess\rp_job_process_cost.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\JobsProcess\rp_job_process_cost.resx">
+      <DependentUpon>rp_job_process_cost.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Month\JobsProcess\rp_job_process_cost_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\JobsProcess\rp_job_process_cost_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\JobsOperation\rp_job_operation_cost.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\JobsOperation\rp_job_operation_cost.resx">
+      <DependentUpon>rp_job_operation_cost.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Month\JobsOperation\rp_job_operation_cost_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\JobsOperation\rp_job_operation_cost_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\Jobs\rp_job_cost.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\Jobs\rp_job_cost.resx">
+      <DependentUpon>rp_job_cost.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Month\Jobs\rp_job_cost_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Month\Jobs\rp_job_cost_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\ReStock\rp_restock.resx">
+      <DependentUpon>rp_restock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\ReStock\rp_restock_table.rdlc" />
+    <EmbeddedResource Include="Panels\Report\StockList\rp_stocklist_table.rdlc" />
+    <EmbeddedResource Include="Panels\Report\StockList\rp_stocklist.resx">
+      <DependentUpon>rp_stocklist.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Stock\Jobs\rp_stock_jobs_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\Jobs\rp_stock_jobs_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\Jobs\rp_stock_jobs.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\Jobs\rp_stock_jobs.resx">
+      <DependentUpon>rp_stock_jobs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Stock\Machines\rp_stock_machines_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\Machines\rp_stock_machines_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\Machines\rp_stock_machines.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\Machines\rp_stock_machines.resx">
+      <DependentUpon>rp_stock_machines.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Stock\OP\rp_stock_operations_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\OP\rp_stock_operations_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\OP\rp_stock_operations.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\OP\rp_stock_operations.resx">
+      <DependentUpon>rp_stock_operations.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Stock\Process\rp_stock_process_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\Process\rp_stock_process_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\Process\rp_stock_process.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\Process\rp_stock_process.resx">
+      <DependentUpon>rp_stock_process.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Stock\ProductsBrand\rp_product_brands_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\ProductsBrand\rp_product_brands_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\ProductsBrand\rp_product_brands.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\ProductsBrand\rp_product_brands.resx">
+      <DependentUpon>rp_product_brands.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Stock\ProductsGroup\rp_product_groups_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\ProductsGroup\rp_product_groups_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\ProductsGroup\rp_product_groups.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\ProductsGroup\rp_product_groups.resx">
+      <DependentUpon>rp_product_groups.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Stock\ProductsType\rp_product_types_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\ProductsType\rp_product_types_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\ProductsType\rp_product_types.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\ProductsType\rp_product_types.resx">
+      <DependentUpon>rp_product_types.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Stock\Products\rp_stock_products_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\Products\rp_stock_products_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\Products\rp_stock_products.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\Products\rp_stock_products.resx">
+      <DependentUpon>rp_stock_products.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Stock\rp_stock_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\rp_stock_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\rp_stock.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\rp_stock_view.resx">
+      <DependentUpon>rp_stock_view.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Stock\Suppliers\rp_stock_suppliers_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\Suppliers\rp_stock_suppliers_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\Suppliers\rp_stock_suppliers.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock\Suppliers\rp_stock_suppliers.resx">
+      <DependentUpon>rp_stock_suppliers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Stock_issue\rp_stock_issue.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Stock_issue\stock_issue.resx">
+      <DependentUpon>stock_issue.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Tool Life Record\Actual Tool Life Avg\rp_actual_toollife_avg_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Tool Life Record\Actual Tool Life Avg\rp_actual_toollife_avg_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Tool Life Record\Actual Tool Life Avg\rp_actual_toollife_avg.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Tool Life Record\Actual Tool Life Avg\rp_actual_toollife_avg.resx">
+      <DependentUpon>rp_actual_toollife_avg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\ToolUse\perMonth\rp_per_month_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\ToolUse\perMonth\rp_per_month_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\ToolUse\perMonth\rp_per_month.rdlc" />
+    <EmbeddedResource Include="Panels\Report\ToolUse\perMonth\rp_per_month.resx">
+      <DependentUpon>rp_per_month.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\ToolUse\perWeek\rp_per_week_PIE.rdlc" />
+    <EmbeddedResource Include="Panels\Report\ToolUse\perWeek\rp_per_week_Line.rdlc" />
+    <EmbeddedResource Include="Panels\Report\ToolUse\perWeek\rp_per_week.rdlc" />
+    <EmbeddedResource Include="Panels\Report\ToolUse\perWeek\rp_per_week.resx">
+      <DependentUpon>rp_per_week.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Restock.resx">
+      <DependentUpon>Restock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\FindProduct.resx">
+      <DependentUpon>FindProduct.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\StockIssue.resx">
+      <DependentUpon>StockIssue.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\StockFindProduct.resx">
+      <DependentUpon>StockFindProduct.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\StockFindSuppliers.resx">
+      <DependentUpon>StockFindSuppliers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\StockLayout.resx">
+      <DependentUpon>StockLayout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\StockLayoutDetail.resx">
+      <DependentUpon>StockLayoutDetail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\StockLayoutFind.resx">
+      <DependentUpon>StockLayoutFind.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\StockSlot.resx">
+      <DependentUpon>StockSlot.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report.resx">
+      <DependentUpon>Report.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Incident\Jobs\All\Incident_Jobs_All.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Incident\Jobs\All\Incident_Jobs_All.resx">
+      <DependentUpon>Incident_Jobs_All.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Incident\Jobs\One\Incident_Job_One.rdlc" />
+    <EmbeddedResource Include="Panels\Report\Incident\Jobs\One\Incident_Job_One.resx">
+      <DependentUpon>Incident_Job_One.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Incident\Machine\Incident_Machine.resx">
+      <DependentUpon>Incident_Machine.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Incident\Summary\Incident_Summary.resx">
+      <DependentUpon>Incident_Summary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Report\Incident\Type\Incident_Types.resx">
+      <DependentUpon>Incident_Types.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\StockList.resx">
+      <DependentUpon>StockList.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Urgent.resx">
+      <DependentUpon>Urgent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\UserType.resx">
+      <DependentUpon>UserType.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Root.resx">
+      <DependentUpon>Root.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings.resx">
+      <DependentUpon>Settings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\Envelopments\Envelopments.resx">
+      <DependentUpon>Envelopments.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\Envelopments\fm_envelopments.resx">
+      <DependentUpon>fm_envelopments.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\Suppliers.resx">
+      <DependentUpon>Suppliers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panels\User.resx">
+      <DependentUpon>User.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update.resx">
+      <DependentUpon>Update.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\database\database\system.db3" />
+    <None Include="bin\database\database_temp\database.db3" />
+    <None Include="bin\database\database_temp\images\database.db3" />
+    <None Include="image\Home\issue.psd" />
+    <None Include="image\Home\Products.psd" />
+    <None Include="image\Home\report.psd" />
+    <None Include="image\Home\Restock.psd" />
+    <None Include="image\Home\stock-list.psd" />
+    <None Include="image\Home\Tool Life.psd" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Panels\IncidentPrint\IncidentPrint.xsc">
+      <DependentUpon>IncidentPrint.xsd</DependentUpon>
+    </None>
+    <None Include="Panels\IncidentPrint\IncidentPrint.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>IncidentPrint1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Panels\IncidentPrint\IncidentPrint.xss">
+      <DependentUpon>IncidentPrint.xsd</DependentUpon>
+    </None>
+    <None Include="Panels\Report\Incident\Jobs\All\Incident_Jobs_All.xsc">
+      <DependentUpon>Incident_Jobs_All.xsd</DependentUpon>
+    </None>
+    <None Include="Panels\Report\Incident\Jobs\All\Incident_Jobs_All.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Incident_Jobs_All1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Panels\Report\Incident\Jobs\All\Incident_Jobs_All.xss">
+      <DependentUpon>Incident_Jobs_All.xsd</DependentUpon>
+    </None>
+    <None Include="Panels\Report\Jobs\rp_jobs.xsc">
+      <DependentUpon>rp_jobs.xsd</DependentUpon>
+    </None>
+    <None Include="Panels\Report\Jobs\rp_jobs.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>rp_jobs.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Panels\Report\Jobs\rp_jobs.xss">
+      <DependentUpon>rp_jobs.xsd</DependentUpon>
+    </None>
+    <None Include="Panels\Report\Log\rp_log_db.xsc">
+      <DependentUpon>rp_log_db.xsd</DependentUpon>
+    </None>
+    <None Include="Panels\Report\Log\rp_log_db.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>rp_log_db.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Panels\Report\Log\rp_log_db.xss">
+      <DependentUpon>rp_log_db.xsd</DependentUpon>
+    </None>
+    <None Include="Panels\Report\ReStock\rp_re_stock.xsc">
+      <DependentUpon>rp_re_stock.xsd</DependentUpon>
+    </None>
+    <None Include="Panels\Report\ReStock\rp_re_stock.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>rp_re_stock.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Panels\Report\ReStock\rp_re_stock.xss">
+      <DependentUpon>rp_re_stock.xsd</DependentUpon>
+    </None>
+    <None Include="Panels\Report\StockList\rp_stock_list.xsc">
+      <DependentUpon>rp_stock_list.xsd</DependentUpon>
+    </None>
+    <None Include="Panels\Report\StockList\rp_stock_list.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>rp_stock_list.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Panels\Report\StockList\rp_stock_list.xss">
+      <DependentUpon>rp_stock_list.xsd</DependentUpon>
+    </None>
+    <None Include="Panels\Report\Stock\rp_stock.xsc">
+      <DependentUpon>rp_stock.xsd</DependentUpon>
+    </None>
+    <None Include="Panels\Report\Stock\rp_stock.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>rp_stock1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Panels\Report\Stock\rp_stock.xss">
+      <DependentUpon>rp_stock.xsd</DependentUpon>
+    </None>
+    <None Include="Panels\Report\Stock_issue\rp_stock_issue.xsc">
+      <DependentUpon>rp_stock_issue.xsd</DependentUpon>
+    </None>
+    <None Include="Panels\Report\Stock_issue\rp_stock_issue.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>rp_stock_issue1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Panels\Report\Stock_issue\rp_stock_issue.xss">
+      <DependentUpon>rp_stock_issue.xsd</DependentUpon>
+    </None>
+    <None Include="Panels\Report\Tool Life Record\Tool life record.xsc">
+      <DependentUpon>Tool life record.xsd</DependentUpon>
+    </None>
+    <None Include="Panels\Report\Tool Life Record\Tool life record.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Tool life record.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Panels\Report\Tool Life Record\Tool life record.xss">
+      <DependentUpon>Tool life record.xsd</DependentUpon>
+    </None>
+    <None Include="Panels\Return\ReturnPrintData.xsc">
+      <DependentUpon>ReturnPrintData.xsd</DependentUpon>
+    </None>
+    <None Include="Panels\Return\ReturnPrintData.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ReturnPrintData.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Panels\Return\ReturnPrintData.xss">
+      <DependentUpon>ReturnPrintData.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\database\database_temp\images\drawing\240720181020492252013020611-54-29-clip_image013.jpg" />
+    <Content Include="bin\database\database_temp\images\incidents\25072018111258926carpark font 2.jpg" />
+    <Content Include="bin\database\database_temp\images\incidents\25072018111258930carpark font 1.jpg" />
+    <Content Include="bin\database\database_temp\images\users\250720181304041162013020611-54-29-clip_image013.jpg" />
+    <Content Include="icon.ico" />
+    <Content Include="image\delete.png" />
+    <Content Include="image\edit.png" />
+    <Content Include="image\Home\issue.png" />
+    <Content Include="image\Home\issue_hover.png" />
+    <Content Include="SqlServerTypes\Loader.cs" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="image\Home\Personal.png" />
+    <Content Include="image\Home\products.png" />
+    <Content Include="image\Home\products_hover.png" />
+    <Content Include="image\Home\report.png" />
+    <Content Include="image\Home\report_hover.png" />
+    <Content Include="image\Home\restock.png" />
+    <Content Include="image\Home\restock_hover.png" />
+    <Content Include="image\Home\stock-list.png" />
+    <Content Include="image\Home\stock-lise_hover.png" />
+    <Content Include="image\Home\tool-life.png" />
+    <Content Include="image\Home\tool-life_hover.png" />
+    <Content Include="image\icon\home.ico" />
+    <Content Include="image\icon\icon.ico" />
+    <Content Include="image\icon\inventory.ico" />
+    <Content Include="image\icon\logo.ico" />
+    <Content Include="image\icon\machine.ico" />
+    <Content Include="image\icon\product.ico" />
+    <Content Include="image\icon\record.ico" />
+    <Content Include="image\icon\report.ico" />
+    <Content Include="image\icon\Settings.ico" />
+    <Content Include="image\icon\suppliers.ico" />
+    <Content Include="image\icon\user-permissions.ico" />
+    <Content Include="image\icon\user.ico" />
+    <Content Include="image\icon\warning.ico" />
+    <Content Include="image\loadingpage.png" />
+    <None Include="image\png\admin.png" />
+    <None Include="image\png\banner.png" />
+    <Content Include="image\png\exit.png" />
+    <None Include="image\png\header.png" />
+    <Content Include="image\png\icon.png" />
+    <None Include="image\png\inventory-restock.png" />
+    <None Include="image\png\inventory-stock-issue.png" />
+    <None Include="image\png\inventory-stock-list.png" />
+    <None Include="image\png\innovation.png" />
+    <None Include="image\png\innovation-hover.png" />
+    <None Include="image\png\inventory-restock-hover.png" />
+    <None Include="image\png\inventory-stock-issue-hover.png" />
+    <None Include="image\png\inventory-stock-list-hover.png" />
+    <Content Include="image\png\inventory.png" />
+    <None Include="image\png\job-hover.png" />
+    <Content Include="image\png\job.png" />
+    <None Include="image\png\layout_south.png" />
+    <None Include="image\png\layout_south-hover.png" />
+    <None Include="image\png\machine-hover.png" />
+    <Content Include="image\png\machine.png" />
+    <Content Include="image\png\ncBB5rpei.png" />
+    <None Include="image\png\order.png" />
+    <None Include="image\png\order-hover.png" />
+    <None Include="image\png\product-hover.png" />
+    <Content Include="image\png\product.png" />
+    <None Include="image\png\production.png" />
+    <None Include="image\png\production-hover.png" />
+    <None Include="image\png\record-hover.png" />
+    <Content Include="image\png\record.png" />
+    <None Include="image\png\report-hover.png" />
+    <Content Include="image\png\report.png" />
+    <None Include="image\png\success.png" />
+    <None Include="image\png\return.png" />
+    <None Include="image\png\return-hover.png" />
+    <None Include="image\png\success-hover.png" />
+    <None Include="image\png\suppliers-hover.png" />
+    <Content Include="image\png\suppliers.png" />
+    <None Include="image\png\urgent.png" />
+    <None Include="image\png\urgent-hover.png" />
+    <None Include="image\png\user-hover.png" />
+    <Content Include="image\png\user-permissions.png" />
+    <Content Include="image\png\user.png" />
+    <None Include="image\png\warning-hover.png" />
+    <Content Include="image\png\warning.png" />
+    <Content Include="image\search.png" />
+    <Content Include="image\user-error.png" />
+    <Content Include="Library\keys.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\database\database_temp\images\brands\" />
+    <Folder Include="bin\database\database_temp\images\machines\" />
+    <Folder Include="bin\database\database_temp\images\suppliers\" />
+    <Folder Include="bin\database\database_temp\images\tools\" />
+    <Folder Include="bin\Release\" />
+    <Folder Include="db\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AutoUpdate\AutoUpdate.vbproj">
+      <Project>{ada6b17b-5cea-4404-bc6f-a0b16cf4e4ac}</Project>
+      <Name>AutoUpdate</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="..\packages\System.Data.SQLite.Core.1.0.111.0\build\net451\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.111.0\build\net451\System.Data.SQLite.Core.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Data.SQLite.Core.1.0.111.0\build\net451\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Data.SQLite.Core.1.0.111.0\build\net451\System.Data.SQLite.Core.targets'))" />
+  </Target>
+</Project>

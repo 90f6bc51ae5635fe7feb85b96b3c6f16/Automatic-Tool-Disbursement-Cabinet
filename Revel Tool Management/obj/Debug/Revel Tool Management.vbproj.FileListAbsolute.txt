@@ -1,0 +1,591 @@
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Future Tool Management.exe.config
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Future Tool Management.exe
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Future Tool Management.pdb
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Future Tool Management.xml
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\AutoUpdate.exe
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\EntityFramework.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\EntityFramework.SqlServer.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\System.Data.SQLite.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\System.Data.SQLite.EF6.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\System.Data.SQLite.Linq.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\EnvDTE.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\stdole.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.MSXML.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\AutoUpdate.pdb
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\AutoUpdate.xml
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\AutoUpdate.exe.config
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\EntityFramework.xml
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\EntityFramework.SqlServer.xml
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\System.Data.SQLite.xml
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\System.Data.SQLite.dll.config
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel Tool Management.vbprojAssemblyReference.cache
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel Tool Management.vbproj.ResolveComReference.cache
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Main.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Resources.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ImportJobMachine.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ImportJobs.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ImportMachine.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ImportProduct.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ImportProductSupplier.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ImportSupplier.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Incident.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.IncidentView.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.IncidentType.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Job.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.JobNode.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.JobsFindProduct.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.MachineSpindle.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.MachineType.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.MachineBrand.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.MachineModel.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_analysis_job_cost.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_analysis_job_cpp.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_analysis_process_cpp.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_analysis_process_cost.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_analysis_product_cost.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Incident_Job.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Incident_Tool.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_log.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_job_process_cost_cpp.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_actual_toollife.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ReturnItem.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ReturnView.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ReturnPrint.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.SuccessStory.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Machine.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.OrderAdd.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.OrderView.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.OrderManage.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Order.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ProductBrands.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ProductGroup.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Productions.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Products.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ProductTypes.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_profit.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.JobsReport.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_job_cpp.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_restock_product_cost.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_issue_product_cost.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_restock_cost.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_issue_cost.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_job_product_cost.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_job_machine_cost.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_job_process_cost.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_job_operation_cost.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_job_cost.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_restock.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stocklist.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_jobs.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_machines.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_operations.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_process.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_product_brands.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_product_groups.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_product_types.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_products.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_in.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_suppliers.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.stock_issue.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_actual_toollife_avg.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_per_month.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_per_week.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Restock.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.FindProduct.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockIssue.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockFindProduct.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockFindSuppliers.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockLayout.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockLayoutDetail.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockLayoutFind.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockSlot.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ToolLifeRecord.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Report.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Cost_Jobs.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Incident_Job_One.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Incident_Machine.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Incident_Summary.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Incident_Types.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockList.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ToolLifeRecordView.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Urgent.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.UserType.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Root.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Settings.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Envelopments.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.fm_envelopments.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.SplashScreen.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Suppliers.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.name.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Update.resources
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel Tool Management.vbproj.GenerateResource.cache
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel Tool Management.vbproj.CoreCompileInputs.cache
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel Tool Management.vbproj.CopyComplete
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Future Tool Management.exe
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Future Tool Management.xml
+D:\RevelSoft\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Future Tool Management.pdb
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Future Tool Management.exe.config
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Future Tool Management.exe
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Future Tool Management.pdb
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Future Tool Management.xml
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\AutoUpdate.exe
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\EntityFramework.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\System.Data.SQLite.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\EnvDTE.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\stdole.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\Microsoft.MSXML.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\AutoUpdate.pdb
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\AutoUpdate.xml
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\AutoUpdate.exe.config
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\EntityFramework.xml
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\System.Data.SQLite.xml
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel Tool Management.vbprojAssemblyReference.cache
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel Tool Management.vbproj.ResolveComReference.cache
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Main.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Resources.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ImportJobMachine.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ImportJobs.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ImportMachine.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ImportProduct.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ImportProductSupplier.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ImportSupplier.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Incident.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.IncidentView.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.IncidentType.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Job.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.JobNode.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.JobsFindProduct.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.MachineSpindle.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.MachineType.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.MachineBrand.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.MachineModel.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_analysis_job_cost.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_analysis_job_cpp.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_analysis_process_cpp.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_analysis_process_cost.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_analysis_product_cost.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Incident_Job.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Incident_Tool.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_log.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_job_process_cost_cpp.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_actual_toollife.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ReturnItem.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ReturnView.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ReturnPrint.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.SuccessStory.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Machine.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.OrderAdd.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.OrderView.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.OrderManage.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Order.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ProductBrands.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ProductGroup.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Productions.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Products.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ProductTypes.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_profit.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.JobsReport.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_job_cpp.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_restock_product_cost.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_issue_product_cost.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_restock_cost.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_issue_cost.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_job_product_cost.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_job_machine_cost.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_job_process_cost.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_job_operation_cost.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_job_cost.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_restock.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stocklist.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_jobs.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_machines.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_operations.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_process.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_product_brands.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_product_groups.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_product_types.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_products.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_in.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_suppliers.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.stock_issue.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_actual_toollife_avg.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_per_month.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_per_week.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Restock.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.FindProduct.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockIssue.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockFindProduct.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockFindSuppliers.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockLayout.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockLayoutDetail.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockLayoutFind.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockSlot.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ToolLifeRecord.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Report.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Cost_Jobs.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Incident_Job_One.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Incident_Machine.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Incident_Summary.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Incident_Types.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockList.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.ToolLifeRecordView.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Urgent.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.UserType.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Root.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Settings.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Envelopments.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.fm_envelopments.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.SplashScreen.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Suppliers.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.name.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel_Tool_Management.Update.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel Tool Management.vbproj.GenerateResource.cache
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel Tool Management.vbproj.CoreCompileInputs.cache
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Revel Tool Management.vbproj.CopyComplete
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Future Tool Management.exe
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Future Tool Management.xml
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\Revel Tool Management\obj\Debug\Future Tool Management.pdb
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel Tool Management.vbprojAssemblyReference.cache
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel Tool Management.vbproj.ResolveComReference.cache
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.Main.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.Resources.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.ImportProduct.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.ImportProductSupplier.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.ImportSupplier.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.IncidentView.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_analysis_job_cost.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_analysis_job_cpp.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_analysis_process_cpp.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_analysis_process_cost.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_analysis_product_cost.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.Incident_Job.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.Incident_Tool.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_log.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_job_process_cost_cpp.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_actual_toollife.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.ReturnPrint.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.SuccessStory.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.OrderAdd.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.OrderView.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.OrderManage.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.Order.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.ProductBrands.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.ProductGroup.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.Products.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.ProductTypes.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_profit.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.JobsReport.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_job_cpp.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_restock_product_cost.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_issue_product_cost.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_restock_cost.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_issue_cost.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_job_product_cost.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_job_machine_cost.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_job_process_cost.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_job_operation_cost.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_job_cost.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_restock.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stocklist.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_jobs.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_machines.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_operations.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_process.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_product_brands.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_product_groups.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_product_types.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_products.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_in.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_stock_suppliers.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.stock_issue.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_actual_toollife_avg.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_per_month.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.rp_per_week.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.Restock.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.FindProduct.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockIssue.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockFindProduct.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockFindSuppliers.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockLayout.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockLayoutDetail.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockLayoutFind.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockSlot.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.Report.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.Cost_Jobs.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.Incident_Job_One.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.Incident_Machine.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.Incident_Summary.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.Incident_Types.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.StockList.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.Urgent.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.UserType.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.Root.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.Settings.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.Envelopments.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.fm_envelopments.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.SplashScreen.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.Suppliers.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.name.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel_Tool_Management.Update.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel Tool Management.vbproj.GenerateResource.cache
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel Tool Management.vbproj.CoreCompileInputs.cache
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Future Tool Management.exe
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Future Tool Management.xml
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Future Tool Management.pdb
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\Future Tool Management.exe.config
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\Future Tool Management.exe
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\Future Tool Management.pdb
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\Future Tool Management.xml
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\AutoUpdate.exe
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\EntityFramework.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\System.Data.SQLite.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\EnvDTE.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\stdole.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\Microsoft.MSXML.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\AutoUpdate.pdb
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\AutoUpdate.xml
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\AutoUpdate.exe.config
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\EntityFramework.xml
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\System.Data.SQLite.xml
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SuperTee\source\repos\Revel Tool Management\Revel Tool Management\obj\Debug\Revel Tool Management.vbproj.CopyComplete

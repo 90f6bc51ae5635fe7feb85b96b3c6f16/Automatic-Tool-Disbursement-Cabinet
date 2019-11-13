@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="rp_stock_list" targetNamespace="http://tempuri.org/rp_stock_list.xsd" xmlns:mstns="http://tempuri.org/rp_stock_list.xsd" xmlns="http://tempuri.org/rp_stock_list.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="rp_stock_list" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="rp_stock_list" msprop:Generator_UserDSName="rp_stock_list">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dt_stocklist" msprop:Generator_TableClassName="dt_stocklistDataTable" msprop:Generator_TableVarName="tabledt_stocklist" msprop:Generator_RowChangedName="dt_stocklistRowChanged" msprop:Generator_TablePropName="dt_stocklist" msprop:Generator_RowDeletingName="dt_stocklistRowDeleting" msprop:Generator_RowChangingName="dt_stocklistRowChanging" msprop:Generator_RowEvHandlerName="dt_stocklistRowChangeEventHandler" msprop:Generator_RowDeletedName="dt_stocklistRowDeleted" msprop:Generator_RowClassName="dt_stocklistRow" msprop:Generator_UserTableName="dt_stocklist" msprop:Generator_RowEvArgName="dt_stocklistRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="products_code" msprop:Generator_ColumnVarNameInTable="columnproducts_code" msprop:Generator_ColumnPropNameInRow="products_code" msprop:Generator_ColumnPropNameInTable="products_codeColumn" msprop:Generator_UserColumnName="products_code" type="xs:string" minOccurs="0" />
+              <xs:element name="products_name1" msprop:Generator_ColumnVarNameInTable="columnproducts_name1" msprop:Generator_ColumnPropNameInRow="products_name1" msprop:Generator_ColumnPropNameInTable="products_name1Column" msprop:Generator_UserColumnName="products_name1" type="xs:string" minOccurs="0" />
+              <xs:element name="products_name2" msprop:Generator_ColumnVarNameInTable="columnproducts_name2" msprop:Generator_ColumnPropNameInRow="products_name2" msprop:Generator_ColumnPropNameInTable="products_name2Column" msprop:Generator_UserColumnName="products_name2" type="xs:string" minOccurs="0" />
+              <xs:element name="qty_in" msprop:Generator_ColumnVarNameInTable="columnqty_in" msprop:Generator_ColumnPropNameInRow="qty_in" msprop:Generator_ColumnPropNameInTable="qty_inColumn" msprop:Generator_UserColumnName="qty_in" type="xs:string" minOccurs="0" />
+              <xs:element name="qty_out" msprop:Generator_ColumnVarNameInTable="columnqty_out" msprop:Generator_ColumnPropNameInRow="qty_out" msprop:Generator_ColumnPropNameInTable="qty_outColumn" msprop:Generator_UserColumnName="qty_out" type="xs:string" minOccurs="0" />
+              <xs:element name="qty" msprop:Generator_ColumnVarNameInTable="columnqty" msprop:Generator_ColumnPropNameInRow="qty" msprop:Generator_ColumnPropNameInTable="qtyColumn" msprop:Generator_UserColumnName="qty" type="xs:string" minOccurs="0" />
+              <xs:element name="price" msprop:Generator_ColumnVarNameInTable="columnprice" msprop:Generator_ColumnPropNameInRow="price" msprop:Generator_ColumnPropNameInTable="priceColumn" msprop:Generator_UserColumnName="price" type="xs:string" minOccurs="0" />
+              <xs:element name="total" msprop:Generator_ColumnVarNameInTable="columntotal" msprop:Generator_ColumnPropNameInRow="total" msprop:Generator_ColumnPropNameInTable="totalColumn" msprop:Generator_UserColumnName="total" type="xs:double" minOccurs="0" />
+              <xs:element name="stock_layout" msprop:Generator_ColumnVarNameInTable="columnstock_layout" msprop:Generator_ColumnPropNameInRow="stock_layout" msprop:Generator_ColumnPropNameInTable="stock_layoutColumn" msprop:Generator_UserColumnName="stock_layout" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

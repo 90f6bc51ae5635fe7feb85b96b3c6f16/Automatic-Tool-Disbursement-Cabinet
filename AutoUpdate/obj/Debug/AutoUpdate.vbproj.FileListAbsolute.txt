@@ -1,0 +1,36 @@
+D:\RevelSoft\Revel-Tool-Mangement\AutoUpdate\bin\Debug\AutoUpdate.exe.config
+D:\RevelSoft\Revel-Tool-Mangement\AutoUpdate\bin\Debug\AutoUpdate.exe
+D:\RevelSoft\Revel-Tool-Mangement\AutoUpdate\bin\Debug\AutoUpdate.pdb
+D:\RevelSoft\Revel-Tool-Mangement\AutoUpdate\bin\Debug\AutoUpdate.xml
+D:\RevelSoft\Revel-Tool-Mangement\AutoUpdate\obj\Debug\AutoUpdate.vbprojAssemblyReference.cache
+D:\RevelSoft\Revel-Tool-Mangement\AutoUpdate\obj\Debug\AutoUpdate.AutoUpdate.resources
+D:\RevelSoft\Revel-Tool-Mangement\AutoUpdate\obj\Debug\AutoUpdate.Resources.resources
+D:\RevelSoft\Revel-Tool-Mangement\AutoUpdate\obj\Debug\AutoUpdate.vbproj.GenerateResource.cache
+D:\RevelSoft\Revel-Tool-Mangement\AutoUpdate\obj\Debug\AutoUpdate.vbproj.CoreCompileInputs.cache
+D:\RevelSoft\Revel-Tool-Mangement\AutoUpdate\obj\Debug\AutoUpdate.exe
+D:\RevelSoft\Revel-Tool-Mangement\AutoUpdate\obj\Debug\AutoUpdate.xml
+D:\RevelSoft\Revel-Tool-Mangement\AutoUpdate\obj\Debug\AutoUpdate.pdb
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\AutoUpdate\bin\Debug\AutoUpdate.exe.config
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\AutoUpdate\bin\Debug\AutoUpdate.exe
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\AutoUpdate\bin\Debug\AutoUpdate.pdb
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\AutoUpdate\bin\Debug\AutoUpdate.xml
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\AutoUpdate\obj\Debug\AutoUpdate.vbprojAssemblyReference.cache
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\AutoUpdate\obj\Debug\AutoUpdate.AutoUpdate.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\AutoUpdate\obj\Debug\AutoUpdate.Resources.resources
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\AutoUpdate\obj\Debug\AutoUpdate.vbproj.GenerateResource.cache
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\AutoUpdate\obj\Debug\AutoUpdate.vbproj.CoreCompileInputs.cache
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\AutoUpdate\obj\Debug\AutoUpdate.exe
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\AutoUpdate\obj\Debug\AutoUpdate.xml
+C:\Users\SuperTee\Desktop\New folder\Revel-Tool-Mangement\AutoUpdate\obj\Debug\AutoUpdate.pdb
+C:\Users\SuperTee\source\repos\Revel Tool Management\AutoUpdate\bin\Debug\AutoUpdate.exe.config
+C:\Users\SuperTee\source\repos\Revel Tool Management\AutoUpdate\bin\Debug\AutoUpdate.exe
+C:\Users\SuperTee\source\repos\Revel Tool Management\AutoUpdate\bin\Debug\AutoUpdate.pdb
+C:\Users\SuperTee\source\repos\Revel Tool Management\AutoUpdate\bin\Debug\AutoUpdate.xml
+C:\Users\SuperTee\source\repos\Revel Tool Management\AutoUpdate\obj\Debug\AutoUpdate.vbprojAssemblyReference.cache
+C:\Users\SuperTee\source\repos\Revel Tool Management\AutoUpdate\obj\Debug\AutoUpdate.AutoUpdate.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\AutoUpdate\obj\Debug\AutoUpdate.Resources.resources
+C:\Users\SuperTee\source\repos\Revel Tool Management\AutoUpdate\obj\Debug\AutoUpdate.vbproj.GenerateResource.cache
+C:\Users\SuperTee\source\repos\Revel Tool Management\AutoUpdate\obj\Debug\AutoUpdate.vbproj.CoreCompileInputs.cache
+C:\Users\SuperTee\source\repos\Revel Tool Management\AutoUpdate\obj\Debug\AutoUpdate.exe
+C:\Users\SuperTee\source\repos\Revel Tool Management\AutoUpdate\obj\Debug\AutoUpdate.xml
+C:\Users\SuperTee\source\repos\Revel Tool Management\AutoUpdate\obj\Debug\AutoUpdate.pdb

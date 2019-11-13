@@ -1,0 +1,431 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Future Tool Management
+</name>
+</assembly>
+<members>
+<member name="T:Revel_Tool_Management.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources._return">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.admin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.banner">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.header">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.innovation">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.innovation_hover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.inventory_restock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.inventory_restock_hover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.inventory_stock_issue">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.inventory_stock_issue_hover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.inventory_stock_list">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.inventory_stock_list_hover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.job">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.job_hover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.layout_south">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.layout_south_hover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.loadingpage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.machine">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.machine_hover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.order">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.order_hover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.Personal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.product">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.product_hover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.production">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.production_hover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.record">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.record_hover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.report_hover1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.report1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.return_hover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.success">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.success_hover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.suppliers">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.suppliers_hover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.urgent">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.urgent_hover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.user_hover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.warning">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revel_Tool_Management.My.Resources.Resources.warning_hover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.IncidentPrint">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.IncidentPrint.tb_incidentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.IncidentPrint.tb_incidentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.IncidentPrint.tb_incidentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_log_db">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_log_db.tb_logDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_log_db.tb_logRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_log_db.tb_logRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.ReturnPrintData">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.ReturnPrintData.dt_stock_outDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.ReturnPrintData.dt_stock_outRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.ReturnPrintData.dt_stock_outRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_jobs">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_jobs.rp_jobsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_jobs.rp_jobsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_jobs.rp_jobsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_re_stock">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_re_stock.dt_restockDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_re_stock.dt_restockRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_re_stock.dt_restockRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_stock_list">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_stock_list.dt_stocklistDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_stock_list.dt_stocklistRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_stock_list.dt_stocklistRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_stock">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_stock.dt_stock_outDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_stock.dt_stock_outRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_stock.dt_stock_outRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_stock_issue">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_stock_issue.dt_stock_issueDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_stock_issue.dt_stock_issueRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.rp_stock_issue.dt_stock_issueRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.Tool_life_record">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.Tool_life_record.tb_toollife_recordDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.Tool_life_record.tb_toollife_recordRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.Tool_life_record.tb_toollife_recordRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.Incident_Jobs">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.Incident_Jobs.Incident_JobsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.Incident_Jobs.Incident_JobsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Revel_Tool_Management.Incident_Jobs.Incident_JobsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+</members>
+</doc>

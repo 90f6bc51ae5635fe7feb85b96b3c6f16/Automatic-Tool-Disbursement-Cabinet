@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="rp_jobs" targetNamespace="http://tempuri.org/rp_jobs.xsd" xmlns:mstns="http://tempuri.org/rp_jobs.xsd" xmlns="http://tempuri.org/rp_jobs.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="rp_jobs" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="rp_jobs" msprop:Generator_UserDSName="rp_jobs">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="rp_jobs" msprop:Generator_TableClassName="rp_jobsDataTable" msprop:Generator_TableVarName="tablerp_jobs" msprop:Generator_RowChangedName="rp_jobsRowChanged" msprop:Generator_TablePropName="_rp_jobs" msprop:Generator_RowDeletingName="rp_jobsRowDeleting" msprop:Generator_RowChangingName="rp_jobsRowChanging" msprop:Generator_RowEvHandlerName="rp_jobsRowChangeEventHandler" msprop:Generator_RowDeletedName="rp_jobsRowDeleted" msprop:Generator_RowClassName="rp_jobsRow" msprop:Generator_UserTableName="rp_jobs" msprop:Generator_RowEvArgName="rp_jobsRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="jobs_name" msprop:Generator_ColumnVarNameInTable="columnjobs_name" msprop:Generator_ColumnPropNameInRow="jobs_name" msprop:Generator_ColumnPropNameInTable="jobs_nameColumn" msprop:Generator_UserColumnName="jobs_name" type="xs:string" minOccurs="0" />
+              <xs:element name="jobs_no" msprop:Generator_ColumnVarNameInTable="columnjobs_no" msprop:Generator_ColumnPropNameInRow="jobs_no" msprop:Generator_ColumnPropNameInTable="jobs_noColumn" msprop:Generator_UserColumnName="jobs_no" type="xs:string" minOccurs="0" />
+              <xs:element name="jobs_start" msprop:Generator_ColumnVarNameInTable="columnjobs_start" msprop:Generator_ColumnPropNameInRow="jobs_start" msprop:Generator_ColumnPropNameInTable="jobs_startColumn" msprop:Generator_UserColumnName="jobs_start" type="xs:string" minOccurs="0" />
+              <xs:element name="jobs_end" msprop:Generator_ColumnVarNameInTable="columnjobs_end" msprop:Generator_ColumnPropNameInRow="jobs_end" msprop:Generator_ColumnPropNameInTable="jobs_endColumn" msprop:Generator_UserColumnName="jobs_end" type="xs:string" minOccurs="0" />
+              <xs:element name="jobs_op_name" msprop:Generator_ColumnVarNameInTable="columnjobs_op_name" msprop:Generator_ColumnPropNameInRow="jobs_op_name" msprop:Generator_ColumnPropNameInTable="jobs_op_nameColumn" msprop:Generator_UserColumnName="jobs_op_name" type="xs:string" minOccurs="0" />
+              <xs:element name="jobs_op_no" msprop:Generator_ColumnVarNameInTable="columnjobs_op_no" msprop:Generator_ColumnPropNameInRow="jobs_op_no" msprop:Generator_ColumnPropNameInTable="jobs_op_noColumn" msprop:Generator_UserColumnName="jobs_op_no" type="xs:string" minOccurs="0" />
+              <xs:element name="jobs_op_tools_name" msprop:Generator_ColumnVarNameInTable="columnjobs_op_tools_name" msprop:Generator_ColumnPropNameInRow="jobs_op_tools_name" msprop:Generator_ColumnPropNameInTable="jobs_op_tools_nameColumn" msprop:Generator_UserColumnName="jobs_op_tools_name" type="xs:string" minOccurs="0" />
+              <xs:element name="jobs_op_tools_no" msprop:Generator_ColumnVarNameInTable="columnjobs_op_tools_no" msprop:Generator_ColumnPropNameInRow="jobs_op_tools_no" msprop:Generator_ColumnPropNameInTable="jobs_op_tools_noColumn" msprop:Generator_UserColumnName="jobs_op_tools_no" type="xs:string" minOccurs="0" />
+              <xs:element name="products_code" msprop:Generator_ColumnVarNameInTable="columnproducts_code" msprop:Generator_ColumnPropNameInRow="products_code" msprop:Generator_ColumnPropNameInTable="products_codeColumn" msprop:Generator_UserColumnName="products_code" type="xs:string" minOccurs="0" />
+              <xs:element name="products_customer_code" msprop:Generator_ColumnVarNameInTable="columnproducts_customer_code" msprop:Generator_ColumnPropNameInRow="products_customer_code" msprop:Generator_ColumnPropNameInTable="products_customer_codeColumn" msprop:Generator_UserColumnName="products_customer_code" type="xs:string" minOccurs="0" />
+              <xs:element name="products_supplier_code" msprop:Generator_ColumnVarNameInTable="columnproducts_supplier_code" msprop:Generator_ColumnPropNameInRow="products_supplier_code" msprop:Generator_ColumnPropNameInTable="products_supplier_codeColumn" msprop:Generator_UserColumnName="products_supplier_code" type="xs:string" minOccurs="0" />
+              <xs:element name="toollife" msprop:Generator_ColumnVarNameInTable="columntoollife" msprop:Generator_ColumnPropNameInRow="toollife" msprop:Generator_ColumnPropNameInTable="toollifeColumn" msprop:Generator_UserColumnName="toollife" type="xs:string" minOccurs="0" />
+              <xs:element name="products_type_name" msprop:Generator_ColumnVarNameInTable="columnproducts_type_name" msprop:Generator_ColumnPropNameInRow="products_type_name" msprop:Generator_ColumnPropNameInTable="products_type_nameColumn" msprop:Generator_UserColumnName="products_type_name" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
